@@ -3,3 +3,4 @@ numpy
 pandas
 finance-datareader==0.9.50
 datetime
+bs4
